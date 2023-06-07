@@ -1,0 +1,64 @@
+{
+    "supermercados": [
+      {
+        "nombre": "Carrefour",
+        "direccion": "Avenida de Guadalajara, 2",
+        "geolocalizacion": {
+          "latitud": 40.41813700710006,
+          "longitud": -3.621878050232747
+        },
+        "productos": [
+          {
+            "nombre": "Heura Nuggets",
+            "oferta": false,
+            "periodo_vigencia": null,
+            "consumo_sin_oferta": true,
+            "unidades": 1,
+            "unidad_medida": "Caja",
+            "precio": 4.49,
+            "adquirido": true
+          },
+          {
+            "nombre": "Burger Vegetal Garden Gourmet",
+            "oferta": true,
+            "periodo_vigencia": "2023-05-25 a 2023-05-08",
+            "consumo_sin_oferta": false,
+            "unidades": 1,
+            "unidad_medida": "Caja",
+            "precio": 4.65,
+            "adquirido": false
+          }
+        ]
+      },
+      {
+        "nombre": "Alcampo",
+        "direccion": "Avenida De Monforte de Lemos, 36",
+        "geolocalizacion": {
+          "latitud": 40.479817895851845,
+          "longitud": -3.7070348263375603
+        }, 
+        "productos": [
+          {
+            "nombre": "Heura Nuggets",
+            "oferta": false,
+            "periodo_vigencia": null,
+            "consumo_sin_oferta": true,
+            "unidades": 1,
+            "unidad_medida": "Caja",
+            "precio": 4.27,
+            "adquirido": true
+          },
+          {
+            "nombre": "Burger Vegetal Garden Gourmet",
+            "oferta": false,
+            "periodo_vigencia": null,
+            "consumo_sin_oferta": false,
+            "unidades": 1,
+            "unidad_medida": "Caja",
+            "precio": 4.95,
+            "adquirido": false
+          }
+        ]
+      }
+    ]
+  }

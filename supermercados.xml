@@ -1,0 +1,30 @@
+<supermercado>
+  <nombre>Mercadona</nombre>
+  <direccion>Calle Butrón, 31</direccion>
+  <geolocalizacion>
+    <latitud>40.426782213026506</latitud> 
+    <longitud>-3.608242634912448</longitud>
+  </geolocalizacion>
+  <productos>
+    <producto>
+      <nombre>Nuggets Vegetales</nombre>
+      <oferta>false</oferta>
+      <periodo_vigencia></periodo_vigencia>
+      <consumo_sin_oferta>false</consumo_sin_oferta>
+      <unidades>1</unidades>
+      <unidad_medida>Caja</unidad_medida>
+      <precio>3.00</precio>
+      <adquirido>false</adquirido>
+    </producto>
+    <producto>
+      <nombre>Helado Vegetal Pistacho</nombre>
+      <oferta>false</oferta>
+      <periodo_vigencia></periodo_vigencia>
+      <consumo_sin_oferta>true</consumo_sin_oferta>
+      <unidades>1</unidades>
+      <unidad_medida>Caja</unidad_medida>
+      <precio>2.90</precio>
+      <adquirido>true</adquirido>
+    </producto>
+  </productos>
+</supermercado>
